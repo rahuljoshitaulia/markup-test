@@ -8,3 +8,4 @@ This document discusses the current state of business object auditing and the fu
 * **Current Auditing Architecture component diagram**
 
 ![Current Auditing Architecture](https://confluence.taulia.com/download/attachments/75497691/CurrentAudting.png?api=v2)
+![Current Auditing Architecture](currentAuditing.png)
